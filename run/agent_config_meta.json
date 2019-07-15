@@ -1,0 +1,281 @@
+{
+  "keys": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Volumes/Transcend/node/first-egg/config/config.default.js"
+    },
+    "root": "/Volumes/Transcend/node/first-egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Volumes/Transcend/node/first-egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Volumes/Transcend/node/first-egg/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "serverUrl": "/Volumes/Transcend/node/first-egg/config/config.default.js"
+  },
+  "security": {
+    "csrf": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "domainWhiteList": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "bodyParser": {
+    "jsonLimit": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "formLimit": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "strict": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "depth": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "fileExtensions": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "autoFields": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Volumes/Transcend/node/first-egg/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "jsonp": {
+    "callback": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "limit": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+    "csrf": "/Volumes/Transcend/node/first-egg/config/config.default.js"
+  },
+  "middleware": "/Volumes/Transcend/node/first-egg/config/config.default.js",
+  "logger": {
+    "outputJSON": "/Volumes/Transcend/node/first-egg/config/config.local.js",
+    "level": "/Volumes/Transcend/node/first-egg/config/config.local.js",
+    "dir": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "env": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Volumes/Transcend/node/first-egg/node_modules/egg-session/config/config.default.js",
+    "key": "/Volumes/Transcend/node/first-egg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Volumes/Transcend/node/first-egg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Volumes/Transcend/node/first-egg/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Volumes/Transcend/node/first-egg/node_modules/egg-security/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Volumes/Transcend/node/first-egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Volumes/Transcend/node/first-egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Volumes/Transcend/node/first-egg/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Volumes/Transcend/node/first-egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Volumes/Transcend/node/first-egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Volumes/Transcend/node/first-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Volumes/Transcend/node/first-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Volumes/Transcend/node/first-egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Volumes/Transcend/node/first-egg/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Volumes/Transcend/node/first-egg/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Volumes/Transcend/node/first-egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Volumes/Transcend/node/first-egg/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Volumes/Transcend/node/first-egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Volumes/Transcend/node/first-egg/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Volumes/Transcend/node/first-egg/node_modules/egg-schedule/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Volumes/Transcend/node/first-egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Volumes/Transcend/node/first-egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Volumes/Transcend/node/first-egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Volumes/Transcend/node/first-egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Volumes/Transcend/node/first-egg/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Volumes/Transcend/node/first-egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Volumes/Transcend/node/first-egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Volumes/Transcend/node/first-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Volumes/Transcend/node/first-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Volumes/Transcend/node/first-egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Volumes/Transcend/node/first-egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Volumes/Transcend/node/first-egg/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Volumes/Transcend/node/first-egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Volumes/Transcend/node/first-egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Volumes/Transcend/node/first-egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Volumes/Transcend/node/first-egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Volumes/Transcend/node/first-egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Volumes/Transcend/node/first-egg/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Volumes/Transcend/node/first-egg/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Volumes/Transcend/node/first-egg/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Volumes/Transcend/node/first-egg/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Volumes/Transcend/node/first-egg/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Volumes/Transcend/node/first-egg/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "validate": "/Volumes/Transcend/node/first-egg/node_modules/egg-validate/config/config.default.js",
+  "mysql": {
+    "default": {
+      "database": "/Volumes/Transcend/node/first-egg/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Volumes/Transcend/node/first-egg/node_modules/egg-mysql/config/config.default.js"
+    },
+    "app": "/Volumes/Transcend/node/first-egg/node_modules/egg-mysql/config/config.default.js",
+    "agent": "/Volumes/Transcend/node/first-egg/node_modules/egg-mysql/config/config.default.js"
+  },
+  "env": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "name": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "version": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "description": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "main": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "dev": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "cov": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "debug": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "start": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "stop": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "license": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "moment": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "logging": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "port": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Volumes/Transcend/node/first-egg/node_modules/egg/config/config.default.js"
+}
