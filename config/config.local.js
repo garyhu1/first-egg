@@ -21,7 +21,7 @@ module.exports = appInfo => {
             // 用户名
             user: 'root',
             // 密码
-            password: 'lyyahww09081020',
+            password: '',
             // 数据库名
             database: 'websites',
         },
@@ -36,7 +36,7 @@ module.exports = appInfo => {
         host: '127.0.0.1',
         port: '3306',
         user: 'root',
-        password: 'lyyahww09081020',
+        password: '',
         database: 'websites'
     }
 
